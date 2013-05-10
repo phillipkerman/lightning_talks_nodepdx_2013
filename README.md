@@ -24,3 +24,6 @@ Schedule
 * Thursday
 * Friday
 	* Rob Kohr: robkohr@gmail.com
+		* I developed a game at http://constantsail.com
+		* It is a real time massive multiplayer game where you sail ships around the world, trade goods, or sink and capture other player's ships. It was built fully with node.js.
+
