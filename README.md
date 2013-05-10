@@ -12,11 +12,11 @@ Or by cloning this repository, adding a document with your presentation title an
 
 Approved but not Scheduled yet
 ==========================
-Phillip Kerman
-Jesse Hallett
-Charlie Key (@zwigby) 
-Nick Niemeir
-Scott Hanselman
+* Phillip Kerman
+* Jesse Hallett
+* Charlie Key (@zwigby) 
+* Nick Niemeir
+* Scott Hanselman
 
 
 Schedule
