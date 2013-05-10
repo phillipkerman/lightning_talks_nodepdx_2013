@@ -21,4 +21,6 @@ Approved but not Scheduled yet
 
 Schedule
 =================
-* TBD
+* Thursday
+* Friday
+	* Rob Kohr: robkohr@gmail.com
