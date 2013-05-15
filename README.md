@@ -12,17 +12,17 @@ Or by cloning this repository, adding a document with your presentation title an
 
 Approved but not Scheduled yet
 ==========================
-* Phillip Kerman
 * Jesse Hallett
 * Charlie Key (@zwigby) 
-* Nick Niemeir
 * Scott Hanselman
 
 
 Schedule
 =================
-* Thursday
-* Friday
+* Thursday, May 16, 2:30-2:50
+	* Nick Niemeir
+	* Phillip Kerman: Post-Flash Survival Guide
+* Friday, May 17, 1:10-1:50
 	* Rob Kohr: robkohr@gmail.com
 		* I developed a game at http://constantsail.com
 		* It is a real time massive multiplayer game where you sail ships around the world, trade goods, or sink and capture other player's ships. It was built fully with node.js.
