@@ -15,6 +15,7 @@ Approved but not Scheduled yet
 * Jesse Hallett
 * Charlie Key (@zwigby) 
 * Scott Hanselman
+* Ryan Munro 
 
 
 Schedule
