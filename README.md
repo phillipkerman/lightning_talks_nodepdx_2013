@@ -21,7 +21,7 @@ Schedule
 =================
 * Thursday, May 16, 2:30-2:50
 	* Nick Niemeir
-	* Phillip Kerman: Post-Flash Survival Guide
+	* Phillip Kerman: How to Get Rich II
 * Friday, May 17, 1:10-1:50
 	* Rob Kohr: robkohr@gmail.com
 		* I developed a game at http://constantsail.com
