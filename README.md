@@ -13,7 +13,6 @@ Or by cloning this repository, adding a document with your presentation title an
 Approved but not Scheduled yet
 ==========================
 * Jesse Hallett
-* Charlie Key (@zwigby) 
 * Scott Hanselman
 * Ryan Munro 
 
@@ -27,4 +26,7 @@ Schedule
 	* Rob Kohr: robkohr@gmail.com
 		* I developed a game at http://constantsail.com
 		* It is a real time massive multiplayer game where you sail ships around the world, trade goods, or sink and capture other player's ships. It was built fully with node.js.
+	* Charlie Key
+		* Cool Stuff with Node.js and Raspberry Pi
+
 
