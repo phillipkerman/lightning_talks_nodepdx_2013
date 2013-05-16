@@ -12,14 +12,14 @@ Or by cloning this repository, adding a document with your presentation title an
 
 Approved but not Scheduled yet
 ==========================
-* Scott Hanselman
+
 
 
 Schedule
 =================
 * Thursday, May 16, 2:30-2:50
 	* Nick Niemeir
-	* Phillip Kerman: How to Get Rich II
+	* Scott Hanselman
 	* Jesse Hallett
 * Friday, May 17, 1:10-1:50
 	* Rob Kohr: robkohr@gmail.com
@@ -27,5 +27,7 @@ Schedule
 		* It is a real time massive multiplayer game where you sail ships around the world, trade goods, or sink and capture other player's ships. It was built fully with node.js.
 	* Charlie Key
 		* Cool Stuff with Node.js and Raspberry Pi
+	* Phillip Kerman
+		*How to Get Rich II
 
 
