@@ -21,6 +21,7 @@ Schedule
 	* Nick Niemeir
 	* Scott Hanselman
 	* Jesse Hallett
+		* Authentication in Node in five minutes
 * Friday, May 17, 1:10-1:50
 	* Rob Kohr: robkohr@gmail.com
 		* I developed a game at http://constantsail.com
