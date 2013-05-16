@@ -12,9 +12,7 @@ Or by cloning this repository, adding a document with your presentation title an
 
 Approved but not Scheduled yet
 ==========================
-* Jesse Hallett
 * Scott Hanselman
-* Ryan Munro 
 
 
 Schedule
@@ -22,6 +20,7 @@ Schedule
 * Thursday, May 16, 2:30-2:50
 	* Nick Niemeir
 	* Phillip Kerman: How to Get Rich II
+	* Jesse Hallett
 * Friday, May 17, 1:10-1:50
 	* Rob Kohr: robkohr@gmail.com
 		* I developed a game at http://constantsail.com
