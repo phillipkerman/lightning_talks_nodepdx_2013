@@ -41,4 +41,6 @@ Schedule
 		* http://n.exts.ch
 	* Justin Abrahms
 		* three screenshots
+	* Dave Miller
+	* Isaac
 
