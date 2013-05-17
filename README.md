@@ -42,5 +42,8 @@ Schedule
 	* Justin Abrahms
 		* three screenshots
 	* Dave Miller
+	* Clive Boulton
+	* 	Ward Trek from WikiWiki to Sharepoint to Sustainability with Federated Wiki with Node Technologies
+	* 	http://www.slideshare.net/clibou/nodepdx-ward-trek
 	* Isaac
 
