@@ -18,17 +18,27 @@ Approved but not Scheduled yet
 Schedule
 =================
 * Thursday, May 16, 2:30-2:50
-	* Nick Niemeir
-	* Scott Hanselman
 	* Jesse Hallett
 		* Authentication in Node in five minutes
+	* Nick Niemeir
+		* Mobility, Scope, Invocation Context, and Inheritance
+		* http://github.com/nrn
+		* http://nrn.io
+		* @nickniemeir
+	* Scott Hanselman
+		* Scaling Yourself
+		* hanselman.com
+		* @shanselman
 * Friday, May 17, 1:10-1:50
+	* Phillip Kerman
+		*How to Get Rich II
 	* Rob Kohr: robkohr@gmail.com
 		* I developed a game at http://constantsail.com
 		* It is a real time massive multiplayer game where you sail ships around the world, trade goods, or sink and capture other player's ships. It was built fully with node.js.
-	* Charlie Key
-		* Cool Stuff with Node.js and Raspberry Pi
-	* Phillip Kerman
-		*How to Get Rich II
-
+	* Nathan Vander Wilt 
+		* PeerPouch 
+		* @natevw  
+		* http://n.exts.ch
+	* Justin Abrahms
+		* three screenshots
 
